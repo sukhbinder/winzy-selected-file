@@ -23,6 +23,9 @@ winzy install winzy-selected-file
 
 To get help type ``winzy  sfiles --help``
 
+## Demo
+![Demo of winzy sfiles](https://raw.githubusercontent.com/sukhbinder/winzy-selected-file/refs/heads/main/demo-selected-files.gif)
+
 ## Development
 
 To set up this plugin locally, first checkout the code. Then create a new virtual environment:
